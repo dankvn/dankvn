@@ -4,9 +4,7 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://giphy.com/embed/S60CrN9iMxFlyp7uM8" />
-<iframe src="https://giphy.com/embed/S60CrN9iMxFlyp7uM8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chatbot-digitalesmarketing-marketing-S60CrN9iMxFlyp7uM8">via GIPHY</a></p>
-
+<img align="right" width=300px alt="Unicorn" src="https://i.imgur.com/10tt1be.jpg" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
